@@ -1,0 +1,21 @@
+_id,donor_id,donor_name,food_item_id,food_item_name,category,quantity,unit,pickup_address,pickup_date,pickup_time,expiry_time,status,created_at
+DON000001,USR000001,ABC Restaurant,FOOD008,Laksa,Rice,2,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000002,USR000001,ABC Restaurant,FOOD012,Spaghetti Carbonara,Meat,2,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000003,USR000001,ABC Restaurant,FOOD011,Roti Canai,Meat,2,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000004,USR000001,ABC Restaurant,FOOD012,Spaghetti Carbonara,Rice,3,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000005,USR000001,ABC Restaurant,FOOD003,Char Kway Teow,Drink,3,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000006,USR000001,ABC Restaurant,FOOD013,Tandoori Chicken,Meat,3,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000007,USR000001,ABC Restaurant,FOOD007,Kaya Toast Set,Drink,2,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000008,USR000001,ABC Restaurant,FOOD004,Chicken Chop,Drink,3,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000009,USR000001,ABC Restaurant,FOOD002,Cendol,Drink,2,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000010,USR000001,ABC Restaurant,FOOD011,Roti Canai,Vegetable,1,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000011,USR000001,ABC Restaurant,FOOD005,Chicken Rice,Vegetable,1,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000012,USR000001,ABC Restaurant,FOOD014,Teh Tarik,Drink,3,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000013,USR000001,ABC Restaurant,FOOD006,Iced Lemon Tea,Vegetable,1,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000014,USR000001,ABC Restaurant,FOOD006,Iced Lemon Tea,Vegetable,2,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000015,USR000001,ABC Restaurant,FOOD007,Kaya Toast Set,Rice,3,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000016,USR000001,ABC Restaurant,FOOD007,Kaya Toast Set,Drink,2,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000017,USR000001,ABC Restaurant,FOOD009,Mushroom Soup,Meat,3,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000018,USR000001,ABC Restaurant,FOOD012,Spaghetti Carbonara,Vegetable,2,kg,Kandy,2024-01-02,18:00-20:00,22:00,Pending,2024-01-01
+DON000019,USR000001,ABC Restaurant,FOOD004,Chicken Chop,Meat,3,kg,Kandy,2024-01-03,18:00-20:00,22:00,Pending,2024-01-02
+DON000020,USR000001,ABC Restaurant,FOOD007,Kaya Toast Set,Vegetable,3,kg,Kandy,2024-01-03,18:00-20:00,22:00,Pending,2024-01-02

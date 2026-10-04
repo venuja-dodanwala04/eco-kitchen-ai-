@@ -1,0 +1,2 @@
+_id,name,email,password_hash,phone,address,role,organization_name,verification_status,created_at
+USR000001,KStreet Restaurant,Kstreet@gmail.com,123456,771234567,Kandy,restaurant,KStreet Restaurant,verified,2023-01-12

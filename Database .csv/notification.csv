@@ -1,0 +1,21 @@
+_id,user_id,title,message,type,is_read,action_url,created_at
+NOT000001,USR000001,Donation request pending,2.0 kg of Laksa are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000002,USR000001,Donation request pending,2.0 kg of Spaghetti Carbonara are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000003,USR000001,Donation request pending,2.0 kg of Roti Canai are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000004,USR000001,Donation request pending,3.0 kg of Spaghetti Carbonara are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000005,USR000001,Donation request pending,3.0 kg of Char Kway Teow are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000006,USR000001,Donation request pending,3.0 kg of Tandoori Chicken are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000007,USR000001,Donation request pending,2.0 kg of Kaya Toast Set are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000008,USR000001,Donation request pending,3.0 kg of Chicken Chop are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000009,USR000001,Donation request pending,2.0 kg of Cendol are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000010,USR000001,Donation request pending,1.0 kg of Roti Canai are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000011,USR000001,Donation request pending,1.0 kg of Chicken Rice are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000012,USR000001,Donation request pending,3.0 kg of Teh Tarik are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000013,USR000001,Donation request pending,1.0 kg of Iced Lemon Tea are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000014,USR000001,Donation request pending,2.0 kg of Iced Lemon Tea are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000015,USR000001,Donation request pending,3.0 kg of Kaya Toast Set are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000016,USR000001,Donation request pending,2.0 kg of Kaya Toast Set are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000017,USR000001,Donation request pending,3.0 kg of Mushroom Soup are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000018,USR000001,Donation request pending,2.0 kg of Spaghetti Carbonara are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-01
+NOT000019,USR000001,Donation request pending,3.0 kg of Chicken Chop are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-02
+NOT000020,USR000001,Donation request pending,3.0 kg of Kaya Toast Set are available for charity confirmation.,DONATION_REQUEST,FALSE,/business/donation-requests,2024-01-02

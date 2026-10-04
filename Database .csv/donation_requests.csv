@@ -1,0 +1,21 @@
+_id,donation_id,charity_id,charity_name,requested_quantity,unit,pickup_time,notes,status,created_at
+REQ000001,DON000001,CHR000001,Charity Partner 1,2,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000002,DON000002,CHR000002,Charity Partner 2,2,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000003,DON000003,CHR000003,Charity Partner 3,2,kg,18:00-20:00,Request generated from available donation record.,Accepted,2024-01-01
+REQ000004,DON000004,CHR000004,Charity Partner 4,3,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000005,DON000005,CHR000005,Charity Partner 5,3,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000006,DON000006,CHR000006,Charity Partner 6,3,kg,18:00-20:00,Request generated from available donation record.,Accepted,2024-01-01
+REQ000007,DON000007,CHR000007,Charity Partner 7,2,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000008,DON000008,CHR000008,Charity Partner 8,3,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000009,DON000009,CHR000009,Charity Partner 9,2,kg,18:00-20:00,Request generated from available donation record.,Accepted,2024-01-01
+REQ000010,DON000010,CHR000010,Charity Partner 10,1,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000011,DON000011,CHR000011,Charity Partner 11,1,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000012,DON000012,CHR000012,Charity Partner 12,3,kg,18:00-20:00,Request generated from available donation record.,Accepted,2024-01-01
+REQ000013,DON000013,CHR000013,Charity Partner 13,1,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000014,DON000014,CHR000014,Charity Partner 14,2,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000015,DON000015,CHR000015,Charity Partner 15,3,kg,18:00-20:00,Request generated from available donation record.,Accepted,2024-01-01
+REQ000016,DON000016,CHR000016,Charity Partner 16,2,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000017,DON000017,CHR000017,Charity Partner 17,3,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-01
+REQ000018,DON000018,CHR000018,Charity Partner 18,2,kg,18:00-20:00,Request generated from available donation record.,Accepted,2024-01-01
+REQ000019,DON000019,CHR000019,Charity Partner 19,3,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-02
+REQ000020,DON000020,CHR000020,Charity Partner 20,3,kg,18:00-20:00,Request generated from available donation record.,Pending,2024-01-02

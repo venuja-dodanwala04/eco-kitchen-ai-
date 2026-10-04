@@ -1,0 +1,14 @@
+node_modules/
+.vite/
+.env
+.env.local
+.env.*.local
+dist/
+build/
+.next/
+coverage/
+*.log
+*.zip
+desktop.ini
+codex-session*.md
+v.txt

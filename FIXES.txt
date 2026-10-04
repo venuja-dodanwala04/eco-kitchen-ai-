@@ -1,0 +1,29 @@
+EcoKitchen AI - Fix Log
+========================
+
+Date: 2026-10-03
+
+1. Replaced the backend placeholder test with a real health-response test.
+2. Added pytest to the backend requirements so the test can be run with
+   python -m pytest.
+3. Pinned bcrypt below version 4.1 because the current passlib release reads
+   bcrypt metadata removed in bcrypt 4.1. This removes the startup warning in
+   the server log after dependencies are reinstalled.
+4. Added http://127.0.0.1:5173 to the default and example backend CORS
+   configuration, matching the frontend's default API host.
+5. Confirmed the frontend TypeScript/Vite production build and backend
+   health/OpenAPI smoke checks before making these changes.
+6. Replaced the frontend notification mock service with calls to the existing
+   notification API. The business and charity notification counters and the
+   notification page now load and update persisted backend data.
+7. Installed the updated backend requirements and verified the result:
+   pytest reports 1 passed, and a password hash/verify check passes without
+   the former bcrypt/passlib startup warning.
+8. Rebuilt the frontend after the notification migration: TypeScript and Vite
+   production compilation pass.
+
+Remaining integration work
+--------------------------
+The donation, forecast, report, sales, and waste frontend services still use
+mock data. They need to be migrated page-by-page to the existing backend
+endpoints before data persists across browser sessions.

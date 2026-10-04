@@ -1,0 +1,21 @@
+_id,user_id,food_item_id,food_name,forecast_date,current_stock,predicted_demand,recommended_preparation,unit,model,generated_at
+FOR000001,USR000001,FOOD008,Laksa,2024-01-02,369,361,361,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000002,USR000001,FOOD012,Spaghetti Carbonara,2024-01-02,119,105,105,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000003,USR000001,FOOD001,Beef Rendang,2024-01-02,50,36,36,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000004,USR000001,FOOD011,Roti Canai,2024-01-02,515,503,503,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000005,USR000001,FOOD012,Spaghetti Carbonara,2024-01-02,274,262,262,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000006,USR000001,FOOD002,Cendol,2024-01-02,415,409,409,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000007,USR000001,FOOD012,Spaghetti Carbonara,2024-01-02,89,76,76,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000008,USR000001,FOOD003,Char Kway Teow,2024-01-02,248,236,236,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000009,USR000001,FOOD013,Tandoori Chicken,2024-01-02,190,176,176,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000010,USR000001,FOOD012,Spaghetti Carbonara,2024-01-02,251,237,237,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000011,USR000001,FOOD007,Kaya Toast Set,2024-01-02,354,347,347,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000012,USR000001,FOOD004,Chicken Chop,2024-01-02,283,270,270,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000013,USR000001,FOOD002,Cendol,2024-01-02,289,278,278,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000014,USR000001,FOOD011,Roti Canai,2024-01-02,858,847,847,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000015,USR000001,FOOD005,Chicken Rice,2024-01-02,351,344,344,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000016,USR000001,FOOD014,Teh Tarik,2024-01-02,425,412,412,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000017,USR000001,FOOD006,Iced Lemon Tea,2024-01-02,719,714,714,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000018,USR000001,FOOD006,Iced Lemon Tea,2024-01-02,655,649,649,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000019,USR000001,FOOD007,Kaya Toast Set,2024-01-02,642,625,625,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
+FOR000020,USR000001,FOOD010,Nasi Lemak,2024-01-02,321,315,315,kg,Historical Sales Baseline (Prophet-ready),2024-01-02
